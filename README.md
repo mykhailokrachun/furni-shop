@@ -12,7 +12,7 @@ Project showcases a fully functional shop with furniture where users can discove
 
 ### Install
 
-- Clone the repository using `github.com/mykhailokrachun/furni-shop.git`
+- Clone the repository using `git clone https://github.com/mykhailokrachun/furni-shop.git`
 - Change directory into the project folder: `cd furni-shop`
 - Run `npm install`
 - Run `npm start`
